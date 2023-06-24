@@ -1,2 +1,2 @@
-# multi-armed_bandit_wp
+# Multi Armed Bandit WordPress Plugin
 A Multi-Armed Bandit Plugin for WordPress
