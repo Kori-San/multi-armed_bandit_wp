@@ -3,6 +3,8 @@
 
 # Zip
 MULTI-ARMED_BANDIT_WP.zip
+wordpress/
+db/
 
 # Configuration
 wp-config.php
