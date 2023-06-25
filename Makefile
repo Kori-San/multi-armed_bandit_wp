@@ -11,3 +11,6 @@ up:
 
 down:
 	docker-compose stop
+
+clean:
+	$(RM) $(ZIP_FILE)
