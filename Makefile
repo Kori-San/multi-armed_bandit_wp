@@ -6,6 +6,9 @@ all: zip
 zip: 
 	zip -r $(ZIP_FILE) $(SRC_FOLDER)
 
+fix:
+	rm -vfr wordpress/wp-content/plugins/$(SRC_FOLDER)
+
 up:
 	docker-compose up -d
 
